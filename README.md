@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/Homework-WizardX.git
+    git clone https://github.com/Danni3-256/Homework-WizardX.git
     cd Homework WizardX
     ```
 
