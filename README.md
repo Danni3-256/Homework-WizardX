@@ -6,7 +6,7 @@ Welcome to the Homework Wizard App, an application powered by cutting-edge langu
 
 ## Overview
 
-The App leverages openAI technology to offer seamless integration, easy installation, and efficient feedback generation. Key features include:
+The App leverages ChatGPT's openAI to offer efficient feedback generation. Key features include:
 
 - **Document Analysis**: Comprehensive feedback on documents.
 - **Streamlit Interface**: User-friendly interface powered by Streamlit.
