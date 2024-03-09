@@ -2,7 +2,7 @@
 
 Welcome to the Homework Wizard App, an application powered by cutting-edge language models to provide insightful feedback on your documents, assignments, and homework.
 
-![Homework WizardX](./Images/home.png)
+![Homework WizardX](./Images/home.PNG)
 
 ## Overview
 
