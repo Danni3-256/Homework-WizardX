@@ -8,9 +8,9 @@ Welcome to the Homework Wizard App, an application powered by cutting-edge langu
 
 The App leverages openAI technology to offer seamless integration, easy installation, and efficient feedback generation. Key features include:
 
-- **Document Analysis**: Receive comprehensive feedback on your documents.
+- **Document Analysis**: Comprehensive feedback on documents.
 - **Streamlit Interface**: User-friendly interface powered by Streamlit.
-- **Easy Installation**: Quick setup process to get you started in no time.
+- **Easy Installation**: Quick setup process.
 
 ## Demo Video
 
