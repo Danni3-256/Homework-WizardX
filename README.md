@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
     ```bash
     git clone https://github.com/Danni3-256/Homework-WizardX.git
-    cd Homework WizardX
+    cd Homework-WizardX
     ```
 
 2. **Install dependencies:**
