@@ -16,14 +16,6 @@ The App leverages openAI technology to offer seamless integration, easy installa
 
 [Download the demo video](./Video/video.mp4)
 
-## Installation
-
-To install the dependencies required for the Home WizardX App, run the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. **Clone the repository:**
