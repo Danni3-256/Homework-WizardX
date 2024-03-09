@@ -1,0 +1,9 @@
+langchain
+openai
+ipykernel
+python-dotenv
+streamlit
+PyPDF2
+pypdf
+docx2txt
+pptx
